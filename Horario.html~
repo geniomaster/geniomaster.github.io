@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" type="text/css" href="style.css" />
-<title> Personal </title>
+<title> Horario </title>
 </head>
 
 <body>
@@ -15,41 +15,28 @@
         
         <div id="menu">
         	<ul>
-            	<<li class="menuitem"><a href="#"></a></li>
-            	<li class="menuitem"><a href="index.html">Inicio</a></li>
+			    <li class="menuitem"><a href="#"></a></li>
+            	<li class="menuitem"><a href="Inicio.html">Inicio</a></li>
                 <li class="menuitem"><a href="Personal.html">Personal</a></li>
-                <li class="menuitem"><a href="cv.html">C.V.</a></li>
+                <li class="menuitem"><a href="C.V.html">C.V.</a></li>
                 <li class="menuitem"><a href="Horario.html">Horario</a></li>
                 <li class="menuitem"><a href="#"></a></li>
             </ul>
         </div>
         
 		<div id="content">
-			<h2> > > > Personal < < < </h2>
-        	
+			<h2> > > > Horario < < < </h2>
+        	<p>&nbsp;</p>
 			<p>&nbsp;</p>
-			<img src="images/Foto1.jpg"border="5">
-			<p>&nbsp;</p>
-	
-		  <h3>Hobbies</h3>
-		    <p>&nbsp;</p>
-			<p>&nbsp; Jugar Videojuegos</p>
-			<p>&nbsp;</p>
-			<p>&nbsp; Ver Peliculas</p>
-			<p>&nbsp;</p>
-			<p>&nbsp; Pasear y conocer lugares nuevos</p>
-			<p>&nbsp;</p>
-			<p>&nbsp; Fotograf&iacute;a</p>
-			<p>&nbsp;</p>
-			<p>&nbsp; Aprender cosas nuevas (ya sea de computaci&oacute;n, tecnolog&iacute;a o cualquier cosa relacionada).</p>
-			<p>&nbsp;</p>
-			<p>&nbsp; Escuchar M&uacute;sica</p>
-			<p>&nbsp;</p>
-			<p>&nbsp; Viajar</p>
-			<p>&nbsp;</p>
-			<p>&nbsp; Leer</p>
-			<p>&nbsp;</p>
+			<img src="images/Horario1.jpg"border="5">
 			
+            <p>&nbsp;</p>
+			<p>&nbsp;</p>
+		  <h3>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 7 Teorias / 2 Laboratorios </h3>
+		    <p>&nbsp;</p>
+        	<p> </p>
+			<p>&nbsp;</p>
+        	
         	<p>&nbsp;</p>
         	<p>&nbsp;</p>
             <p>&nbsp;</p>

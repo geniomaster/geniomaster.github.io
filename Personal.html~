@@ -16,9 +16,9 @@
         <div id="menu">
         	<ul>
             	<<li class="menuitem"><a href="#"></a></li>
-            	<li class="menuitem"><a href="index.html">Inicio</a></li>
+            	<li class="menuitem"><a href="Inicio.html">Inicio</a></li>
                 <li class="menuitem"><a href="Personal.html">Personal</a></li>
-                <li class="menuitem"><a href="cv.html">C.V.</a></li>
+                <li class="menuitem"><a href="C.V.html">C.V.</a></li>
                 <li class="menuitem"><a href="Horario.html">Horario</a></li>
                 <li class="menuitem"><a href="#"></a></li>
             </ul>
